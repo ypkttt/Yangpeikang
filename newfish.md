@@ -3,7 +3,9 @@ Title: 培训手册
 URL Source: https://chiseled-chili-ce0.notion.site/0afe1a66699f4c51ad53649e63bd61bb
 
 Markdown Content:
+
 培训手册
+
 =============== 
 
 培训手册
@@ -14,7 +16,6 @@ Made with
 ====
 
 Created
-
 April 6, 2023 12:46 PM
 
 Class
@@ -42,7 +43,7 @@ Reviewed
 
 推荐使用[CoLab](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9)，需要翻墙。
 
-[Google Colaboratory ![Image 5](https://chiseled-chili-ce0.notion.site/image/https%3A%2F%2Fssl.gstatic.com%2Fcolaboratory-static%2Fcommon%2F07e9d2e2d7bede6849447a0802d74474%2Fimg%2Ffavicon.ico?table=block&id=f7db9c4c-199c-42f0-9c48-69d29352245c&spaceId=33b6e2b5-4d08-4da8-9c73-8d7396d9bb33&userId=&cache=v2) https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9 ![Image 6](https://chiseled-chili-ce0.notion.site/image/https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png?table=block&id=f7db9c4c-199c-42f0-9c48-69d29352245c&spaceId=33b6e2b5-4d08-4da8-9c73-8d7396d9bb33&width=500&userId=&cache=v2)](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9)
+[Google Colaboratory (https://chiseled-chili-ce0.notion.site/image/https%3A%2F%2Fssl.gstatic.com%2Fcolaboratory-static%2Fcommon%2F07e9d2e2d7bede6849447a0802d74474%2Fimg%2Ffavicon.ico?table=block&id=f7db9c4c-199c-42f0-9c48-69d29352245c&spaceId=33b6e2b5-4d08-4da8-9c73-8d7396d9bb33&userId=&cache=v2) https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9 ![Image 6](https://chiseled-chili-ce0.notion.site/image/https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png?table=block&id=f7db9c4c-199c-42f0-9c48-69d29352245c&spaceId=33b6e2b5-4d08-4da8-9c73-8d7396d9bb33&width=500&userId=&cache=v2)](https://colab.research.google.com/#scrollTo=-Rh3-Vt9Nev9)
 
 [154.17.20.36 https://154.17.20.36/auth/register?code=zSt7](https://154.17.20.36/auth/register?code=zSt7)
 
